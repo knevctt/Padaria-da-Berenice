@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1685570831 source:c:\users\knevc\onedrive\documentos\cachorroleproso\atualizar produto.c
+	"header.h"
+
+1687568217 c:\users\knevc\onedrive\documentos\cachorroleproso\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1687574438 source:c:\users\knevc\onedrive\documentos\cachorroleproso\cadastrar produtp.c
+	"header.h"
+
+1687568390 source:c:\users\knevc\onedrive\documentos\cachorroleproso\excluir produto.c
+	"header.h"
+
+1685571933 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir menu de produtos.c
+	"header.h"
+
+1686351186 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir menu principal.c
+	"header.h"
+
+1687569658 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir produtos.c
+	"header.h"
+
+1685571446 source:c:\users\knevc\onedrive\documentos\cachorroleproso\ler produtos.c
+	"header.h"
+
+1685491977 source:c:\users\knevc\onedrive\documentos\cachorroleproso\limpar buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1686670596 source:c:\users\knevc\onedrive\documentos\cachorroleproso\main.c
+	"header.h"
+
+1687569658 source:c:\users\knevc\onedrive\documentos\cachorroleproso\realizar venda.c
+	"header.h"
+
+1687569658 source:c:\users\knevc\onedrive\documentos\cachorroleproso\registrar venda.c
+	"header.h"
+
+1687570763 source:c:\users\knevc\onedrive\documentos\cachorroleproso\relatorio de vendas.c
+	"header.h"
+
+1685571346 source:c:\users\knevc\onedrive\documentos\cachorroleproso\salvar produtos.c
+	"header.h"
+
+1687569007 source:c:\users\knevc\onedrive\documentos\cachorroleproso\menuprincipal aaaaaaaa.c
+	"header.h"
+
+1685570831 source:c:\users\knevc\downloads\asdas\atualizar produto.c
+	"header.h"
+
+1687719208 c:\users\knevc\downloads\asdas\header.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1687718565 source:c:\users\knevc\downloads\asdas\cadastrar produtp.c
+	"header.h"
+
+1687719017 source:c:\users\knevc\downloads\asdas\excluir produto.c
+	"header.h"
+
+1687717944 source:c:\users\knevc\downloads\asdas\exibir menu de produtos.c
+	"header.h"
+
+1686351186 source:c:\users\knevc\downloads\asdas\exibir menu principal.c
+	"header.h"
+
+1687719017 source:c:\users\knevc\downloads\asdas\exibir produtos.c
+	"header.h"
+
+1687720158 source:c:\users\knevc\downloads\asdas\ler produtos.c
+	"header.h"
+
+1685491977 source:c:\users\knevc\downloads\asdas\limpar buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1686670596 source:c:\users\knevc\downloads\asdas\main.c
+	"header.h"
+
+1687569007 source:c:\users\knevc\downloads\asdas\menuprincipal aaaaaaaa.c
+	"header.h"
+
+1687569658 source:c:\users\knevc\downloads\asdas\realizar venda.c
+	"header.h"
+
+1687569658 source:c:\users\knevc\downloads\asdas\registrar venda.c
+	"header.h"
+
+1687570763 source:c:\users\knevc\downloads\asdas\relatorio de vendas.c
+	"header.h"
+
+1685571346 source:c:\users\knevc\downloads\asdas\salvar produtos.c
+	"header.h"
+
+1687798002 source:c:\users\yara_\downloads\asdas\atualizar produto.c
+	"header.h"
+
+1687805383 c:\users\yara_\downloads\asdas\header.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1687804863 source:c:\users\yara_\downloads\asdas\cadastrar produtp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1687798002 source:c:\users\yara_\downloads\asdas\excluir produto.c
+	"header.h"
+
+1687805351 source:c:\users\yara_\downloads\asdas\exibir menu de produtos.c
+	"header.h"
+
+1687805351 source:c:\users\yara_\downloads\asdas\exibir menu principal.c
+	"header.h"
+
+1687798002 source:c:\users\yara_\downloads\asdas\exibir produtos.c
+	"header.h"
+
+1687809619 source:c:\users\yara_\downloads\asdas\limpar buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1687805410 source:c:\users\yara_\downloads\asdas\menuprincipal aaaaaaaa.c
+	"header.h"
+
+1687810060 source:c:\users\yara_\downloads\asdas\realizar venda.c
+	"header.h"
+
+1687569658 source:c:\users\yara_\downloads\asdas\registrar venda.c
+	"header.h"
+
+1687570763 source:c:\users\yara_\downloads\asdas\relatorio de vendas.c
+	"header.h"
+
+1687798002 source:c:\users\yara_\downloads\asdas\salvar produtos.c
+	"header.h"
+
+1687798500 source:c:\users\yara_\downloads\asdas\ler produtos.c
+	"header.h"
+
+1687805074 source:c:\users\yara_\downloads\asdas\main.c
+	"header.h"
+
+1687816742 source:c:\users\jhona\downloads\asdas\atualizar produto.c
+	"header.h"
+
+1687805383 c:\users\jhona\downloads\asdas\header.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1687804863 source:c:\users\jhona\downloads\asdas\cadastrar produtp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1687798002 source:c:\users\jhona\downloads\asdas\excluir produto.c
+	"header.h"
+
+1687805351 source:c:\users\jhona\downloads\asdas\exibir menu de produtos.c
+	"header.h"
+
+1687805351 source:c:\users\jhona\downloads\asdas\exibir menu principal.c
+	"header.h"
+
+1687798002 source:c:\users\jhona\downloads\asdas\exibir produtos.c
+	"header.h"
+
+1687798500 source:c:\users\jhona\downloads\asdas\ler produtos.c
+	"header.h"
+
+1687809619 source:c:\users\jhona\downloads\asdas\limpar buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1687817565 source:c:\users\jhona\downloads\asdas\main.c
+	"header.h"
+
+1687805410 source:c:\users\jhona\downloads\asdas\menuprincipal aaaaaaaa.c
+	"header.h"
+
+1687818182 source:c:\users\jhona\downloads\asdas\realizar venda.c
+	"header.h"
+
+1687569658 source:c:\users\jhona\downloads\asdas\registrar venda.c
+	"header.h"
+
+1687570763 source:c:\users\jhona\downloads\asdas\relatorio de vendas.c
+	"header.h"
+
+1687816094 source:c:\users\jhona\downloads\asdas\salvar produtos.c
+	"header.h"
+

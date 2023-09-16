@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1685491977 source:c:\users\knevc\onedrive\documentos\cachorroleproso\limpar buffer.c
+	<stdio.h>
+	<stdlib.h>
+
+1686351186 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir menu principal.c
+	"header.h"
+
+1686351186 c:\users\knevc\onedrive\documentos\cachorroleproso\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1685570448 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir produtos.c
+	"header.h"
+
+1685570574 source:c:\users\knevc\onedrive\documentos\cachorroleproso\cadastrar produtp.c
+	"header.h"
+
+1685570831 source:c:\users\knevc\onedrive\documentos\cachorroleproso\atualizar produto.c
+	"header.h"
+
+1685571346 source:c:\users\knevc\onedrive\documentos\cachorroleproso\excluir produto.c
+	"header.h"
+
+1685571346 source:c:\users\knevc\onedrive\documentos\cachorroleproso\salvar produtos.c
+	"header.h"
+
+1685571446 source:c:\users\knevc\onedrive\documentos\cachorroleproso\ler produtos.c
+	"header.h"
+
+1685571567 source:c:\users\knevc\onedrive\documentos\cachorroleproso\registrar venda.c
+	"header.h"
+
+1685571933 source:c:\users\knevc\onedrive\documentos\cachorroleproso\exibir menu de produtos.c
+	"header.h"
+
+1686088919 source:c:\users\knevc\onedrive\documentos\cachorroleproso\realizar venda.c
+	"header.h"
+
+1685576036 source:c:\users\knevc\onedrive\documentos\cachorroleproso\relatorio de vendas.c
+	"header.h"
+
+1686670596 source:c:\users\knevc\onedrive\documentos\cachorroleproso\main.c
+	"header.h"
+
+1685576123 source:c:\users\knevc\onedrive\documentos\cachorroleproso\menu principal.c
+	"header.h"
+
